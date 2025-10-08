@@ -1,1 +1,1 @@
-# -git-setup-cli.sh
+# git-setup-cli.sh
